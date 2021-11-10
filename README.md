@@ -8,10 +8,10 @@
 <div > <h2 > Inoke Nakacia :smile:</h2> </div>
 
 <!-- title with span (you can render emojis or markdown inside it) -->
-<span align="center"> <h4> :star: My Career: </h4> </span>
-<ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>
+<span align="center"> <h4> :star: Experience: </h4> </span>
+<ul>
+  <li>Project Manager for : IS314, CS314</li>
+  <li>Basic Metorological Techinican</li>
+  <li>Industrial Attachment</li>
+</ul>
 
