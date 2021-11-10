@@ -1,2 +1,2 @@
 
-<img src=”https://www.canva.com/design/DAEvR9MGJcs/osX0fzBARt9zYKJ_CmY3nA/view?utm_content=DAEvR9MGJcs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt=”my banner”>
+<img src=”![Inoke Nakacia (1000 x 300 px)](https://user-images.githubusercontent.com/55421987/141046615-ae96e1fb-e21d-44b3-8206-9641ec54d1c6.png)" alt=”my banner”>
