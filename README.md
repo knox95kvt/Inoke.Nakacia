@@ -17,9 +17,6 @@
 
 <div > 
 <span align="center"> <h4> Skills: </h4> </span>
-  <ul>
-  <li> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) </li>
-  <li>Basic Metorological Techinican</li>
-  <li>Industrial Attachment</li>
-</ul>
+ <img alt=”React” src= "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+ 
 </div>
