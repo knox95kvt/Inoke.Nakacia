@@ -32,17 +32,15 @@
   <img alt=”Canva Lightroom” src= "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
  </div>
 <div>
-  <span> <h5> Stats </h5> </span>
+  <span> <h5> 📈 GitHub Stats </h5> </span>
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=knox95kvt)](https://github.com/knox95kvt)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knox95kvt&layout=compact)](https://github.com/knox95kvt)
-  
-  ## 📈 GitHub Stats 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knox95kvt&layout=compact)](https://github.com/knox95kvt)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=knox95kvt.knox95kvt)](https://github.com/knox95kvt)
   
   </div>
