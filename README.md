@@ -23,7 +23,7 @@
    <img alt=”CSS3” src= "https//img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
    <img alt=”HTML5” src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
   <span align="center"> <h5> Framework: </h5> </span>
-  <img alt=”Flutter” src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt=”Flutter” src= "https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
   <span align="center"> <h5> Design: </h5> </span>
   <img alt=”Adobe Lightroom” src= "https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
   <img alt=”Canva Lightroom” src= "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
