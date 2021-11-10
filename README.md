@@ -33,5 +33,6 @@
  </div>
 <div>
   <span> <h5> Stats </h5> </span>
-  [[![Top Langs](https://github-readme-stats.vercel.app/api?username=knox95kvt)](https://github.com/knox95kvt)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=knox95kvt)](https://github.com/knox95kvt)
+ 
   </div>
