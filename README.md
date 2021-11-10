@@ -5,7 +5,7 @@
 <h1 align="center"> Bula Vinaka! :wave: </h1>
 
 <!-- title with div -->
-<div align="center"> <h2 align="center"> Inoke Nakacia :smile:</h2> </div>
+<div > <h2 > Inoke Nakacia :smile:</h2> </div>
 
 <!-- title with span (you can render emojis or markdown inside it) -->
 <span align="center"> <h4> :star: My Career: </h4> </span>
